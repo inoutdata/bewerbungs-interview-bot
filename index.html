@@ -1,1 +1,30 @@
 
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Virtuelles Bewerbungs-Interview</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Virtuelles Bewerbungs-Interview</h1>
+<p>Stellen Sie Fragen wie in einem echten Gespräch.</p>
+
+<input id="q" placeholder="Ihre Frage…">
+<button onclick="answer()">Antwort</button>
+<button onclick="listen()">🎙️</button>
+
+<div id="a" aria-live="polite"></div>
+
+<hr>
+<h3>Unterlagen</h3>
+<a href="assets/cv.pdf" download>Lebenslauf (PDF)</a><br>
+<a href="assets/cv.odt" download>Lebenslauf (ODT)</a>
+
+<hr>
+<a href="datenschutz.html">Datenschutz</a>
+
+<script src="app.js"></script>
+</body>
+</html>
