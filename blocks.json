@@ -1,1 +1,27 @@
 
+{
+  "thinking": [
+    "Gute Frage.",
+    "Lassen Sie mich kurz überlegen.",
+    "Das ist ein interessanter Punkt."
+  ],
+  "mindset": [
+    "Ich gehe strukturiert vor und priorisiere Betriebssicherheit.",
+    "Ich denke in Ursachen statt Symptomen."
+  ],
+  "logic": [
+    "Ich trenne technische, organisatorische und menschliche Faktoren.",
+    "Ich arbeite mit Messwerten statt Vermutungen."
+  ],
+  "examples": [
+    "wie bei instabilen Steuerungen",
+    "etwa bei sporadischen Kommunikationsfehlern"
+  ],
+  "counter": [
+    "Wie ist das bei Ihnen aktuell organisiert?",
+    "Wo sehen Sie derzeit den größten Handlungsbedarf?"
+  ],
+  "stress_addon": [
+    "Auch unter Zeitdruck bleibe ich nachvollziehbar und ruhig."
+  ]
+}
