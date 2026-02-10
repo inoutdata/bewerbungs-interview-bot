@@ -1,1 +1,11 @@
 
+{
+  "intro": ["vorstellen", "wer sind", "laufbahn", "hintergrund"],
+  "strengths": ["stärke", "kompetenz", "gut"],
+  "weaknesses": ["schwäche", "lernen", "verbessern"],
+  "motivation": ["warum", "motivation", "wechsel"],
+  "problem": ["problem", "fehler", "störung", "kritisch"],
+  "stress": ["druck", "stress", "zeit", "konflikt"],
+  "responsibility": ["verantwortung", "entscheidung"],
+  "salary": ["gehalt", "vergütung"]
+}
